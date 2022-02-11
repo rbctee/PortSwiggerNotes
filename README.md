@@ -12,7 +12,7 @@ Status of the labs:
 
 | Lab | Status
 |-|-|
-| SQL Injection | 0/16 |
+| SQL Injection | 16/16 |
 | Authentication | 0/14 |
 | Directory traversal | 0/6 |
 | Command injection | 0/5 |
