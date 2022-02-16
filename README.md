@@ -15,7 +15,7 @@ Status of the labs:
 | SQL Injection                        | 16/16  | :white_check_mark:   |
 | Authentication                       | 14/14  | :white_check_mark:   |
 | Directory traversal                  | 6/6    | :white_check_mark:   |
-| Command injection                    | 0/5    | :white_large_square: |
+| Command injection                    | 5/5    | :white_large_square: |
 | Business logic vulnerabilities       | 0/11   | :white_large_square: |
 | Information disclosure               | 0/5    | :white_large_square: |
 | Access control                       | 0/13   | :white_large_square: |
