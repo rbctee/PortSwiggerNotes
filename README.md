@@ -18,7 +18,7 @@ Status of the labs:
 | Command injection                    | 5/5    | :white_check_mark:   |
 | Business logic vulnerabilities       | 0/11   | :white_large_square: |
 | Information disclosure               | 5/5    | :white_check_mark:   |
-| Access control                       | 0/13   | :white_large_square: |
+| Access control                       | 13/13  | :white_check_mark:   |
 | File upload vulnerabilities          | 0/7    | :white_large_square: |
 | Server-side request forgery (SSRF)   | 0/7    | :white_large_square: |
 | XXE injection                        | 0/9    | :white_large_square: |
