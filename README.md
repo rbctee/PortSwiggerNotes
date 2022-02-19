@@ -19,7 +19,7 @@ Status of the labs:
 | Business logic vulnerabilities       | 0/11   | :white_large_square: |
 | Information disclosure               | 5/5    | :white_check_mark:   |
 | Access control                       | 13/13  | :white_check_mark:   |
-| File upload vulnerabilities          | 0/7    | :white_large_square: |
+| File upload vulnerabilities          | 7/7    | :white_check_mark:   |
 | Server-side request forgery (SSRF)   | 0/7    | :white_large_square: |
 | XXE injection                        | 0/9    | :white_large_square: |
 | Cross-site scripting (XSS)           | 0/30   | :white_large_square: |
