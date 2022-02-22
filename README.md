@@ -21,7 +21,7 @@ Status of the labs:
 | Access control                       | 13/13  | :white_check_mark:   |
 | File upload vulnerabilities          | 7/7    | :white_check_mark:   |
 | Server-side request forgery (SSRF)   | 0/7    | :white_large_square: |
-| XXE injection                        | 0/9    | :white_large_square: |
+| XXE injection                        | 9/9    | :white_check_mark:   |
 | Cross-site scripting (XSS)           | 0/30   | :white_large_square: |
 | Cross-site request forgery (CSRF)    | 0/8    | :white_large_square: |
 | Cross-origin resource sharing (CORS) | 0/4    | :white_large_square: |
